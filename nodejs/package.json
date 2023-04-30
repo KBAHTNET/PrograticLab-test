@@ -1,0 +1,24 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "Пример решения тестового задания: написать программу на любом языке программирования, которая поместит + (2+3), - (3-2), или ничего ( ) в промежутках между цифрами от 9 до 0 (в таком порядке) так, чтобы в результате получилось 200. Например: 98+76-5+43-2-10=200.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBAHTNET/PrograticLab-test.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs"
+  ],
+  "author": "ilyabratskih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KBAHTNET/PrograticLab-test/issues"
+  },
+  "homepage": "https://github.com/KBAHTNET/PrograticLab-test#readme"
+}
