@@ -1,11 +1,11 @@
 # Запуск программы
 
 1. Запуск nodejs решения:
-  ```
+  ```sh
   node ./nodejs/main.js
   ```
 2. Запуск python решения:
-  ```
+  ```sh
   python ./python/main.py
   ```
 
