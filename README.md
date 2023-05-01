@@ -2,11 +2,11 @@
 
 1. Запуск nodejs решения:
   ```
-  node main.js
+  node ./nodejs/main.js
   ```
 2. Запуск python решения:
   ```
-  python main.py
+  python ./python/main.py
   ```
 
 # Описание задачи
